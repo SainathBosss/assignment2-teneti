@@ -38,5 +38,21 @@ To know more about me please click on the link below,
 
 --------------------------------------------------------------------------------------------------------
 
- 
+## Four best places in UK
+
+| City name | location | Time takes |
+| --- | --- | ---: |
+| Newcastle | Tyne Bridge | 40mins |
+| London | Tower Bridge | 30mins |
+| YorkShire | YorkShire Bridge | 40mins |
+| Scotland | Forth Bridge | 20mins |
+
+
+
+
+ 1) Use a horizontal line and an appropriate heading for a new section.   
+2) . Include a short paragraph that introduces the table. 
+3)   Remember to use headers.  
+4) Commit and Push. 
+5) Screen shot 6 on GitHub showing the table section.
   
