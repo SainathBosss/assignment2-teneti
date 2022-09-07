@@ -1,6 +1,6 @@
 # assignment2-teneti
 
-# SAINATH REDDY TENTI
+# SAINATH REDDY TENETI
 
 # Nodaway County Historical Society Museum
 
@@ -33,5 +33,9 @@ It has one of the biggest collections of horse racing memorabilia from Calumet F
 * Hyvee
 * Mozingo Lake Recreational Park
 
- 
+**[About Me](AboutMe.md)**
+
+--------------------------------------------------------------------------------------------------------
+
+
   
