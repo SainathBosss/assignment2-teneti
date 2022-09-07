@@ -33,9 +33,10 @@ It has one of the biggest collections of horse racing memorabilia from Calumet F
 * Hyvee
 * Mozingo Lake Recreational Park
 
+To know more about me please click on the link below,
 **[About Me](AboutMe.md)**
 
 --------------------------------------------------------------------------------------------------------
 
-
+ 
   
