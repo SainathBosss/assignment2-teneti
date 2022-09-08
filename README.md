@@ -10,7 +10,7 @@ The museum contains memorabilia from county residents Dale Carnegie, Homer Croy,
 
 It has one of the biggest collections of horse racing memorabilia from Calumet Farm and *Triple Crown* of Thoroughbred Racing Citation (horse) because of trainer *Jimmy Jones*.</p>
 
-=======================================================================================================
+---
 
 ## Direction from nearest airport (MCI) to Nodaway County Historical Society Museum
 
@@ -36,7 +36,7 @@ It has one of the biggest collections of horse racing memorabilia from Calumet F
 To know more about me please click on the link below,
 * **[About Me](AboutMe.md)**
 
---------------------------------------------------------------------------------------------------------
+---
 
 ## Four best places in UK
 
@@ -58,6 +58,26 @@ The table below lists famous places in various cities throughout the United King
 
 > We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out. 
   *-Ray Bradbury*
+  
+---
+## Code Fencing
+
+> Fade out one image and fade in another with css animations
+
+[Link to the stack overflow](https://stackoverflow.com/questions/60446639/fade-out-one-image-and-fade-in-another-with-css-animations)
+
+```
+
+$("#kitten").hover(function(){
+    $(this).find("img").fadeOut();
+}, function() {
+    $(this).find("img").fadeIn();
+});
+
+
+```
+
+[Link to the code snippet](https://css-tricks.com/snippets/jquery/fade-image-into-another-image/)
 
 
 
