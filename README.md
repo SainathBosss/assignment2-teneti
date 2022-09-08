@@ -34,11 +34,13 @@ It has one of the biggest collections of horse racing memorabilia from Calumet F
 * Mozingo Lake Recreational Park
 
 To know more about me please click on the link below,
-**[About Me](AboutMe.md)**
+* **[About Me](AboutMe.md)**
 
 --------------------------------------------------------------------------------------------------------
 
 ## Four best places in UK
+
+The table below lists famous places in various cities throughout the United Kingdom, as well as the time required to visit those locations.
 
 | City name | location | Time takes |
 | --- | --- | ---: |
@@ -46,6 +48,13 @@ To know more about me please click on the link below,
 | London | Tower Bridge | 30mins |
 | YorkShire | YorkShire Bridge | 40mins |
 | Scotland | Forth Bridge | 20mins |
+
+---
+
+## Quotes I like
+
+> It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default. * -J.K. Rowling *
+> We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out. * -Ray Bradbury *
 
 
 
