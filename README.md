@@ -53,15 +53,14 @@ The table below lists famous places in various cities throughout the United King
 
 ## Quotes I like
 
-> It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default. * -J.K. Rowling *
-> We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out. * -Ray Bradbury *
+> It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default. 
+  *-J.K. Rowling*
+
+> We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out. 
+  *-Ray Bradbury*
 
 
 
 
- 1) Use a horizontal line and an appropriate heading for a new section.   
-2) . Include a short paragraph that introduces the table. 
-3)   Remember to use headers.  
-4) Commit and Push. 
-5) Screen shot 6 on GitHub showing the table section.
+
   
